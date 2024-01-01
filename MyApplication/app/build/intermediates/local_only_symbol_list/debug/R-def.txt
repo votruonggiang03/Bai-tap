@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id KetQua
+id PhepToan
+id SoThuHai
+id SoThuNhat
+id Tuan21btn1
+id Tuan21tv1
+id Tuan21txt1
+id Tuan21txt2
+id Tuan22Listview
+id Tuan22btn1
+id Tuan22tv1
+id Tuan22txt1
+id Tuan22txt2
+id tuan22Listview
+layout activity_main
+layout activity_main2
+layout activity_main3
+layout activity_tuan211_main
+layout activity_tuan211_second
+layout activity_tuan21_main
+layout activity_tuan22_main
+layout activity_tuan22_main3
+layout activity_tuan22_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
